@@ -20,3 +20,4 @@ Na herança, os objetos que são construídos dentro delas herdam característic
 
 ### [Polimorfismo](#Polimorfismo):
 
+O polimorfismo oferece ao usuário a possibilidade de reescrever ou sobescrever métodos da classe principal, de maneira ao qual esses métodos podem ser utilizados para fins disntintos, porém sendo implementados de formas diferentes.
