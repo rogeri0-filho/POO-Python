@@ -29,4 +29,4 @@ O polimorfismo oferece ao usuário a possibilidade de reescrever ou sobescrever 
 
 ### Encapsulamento:
 
-O encapsulamento se baseia no privilegio da execução, seria separar o programa em partes mais isoladas o possível. Dentro das classes existem métodos públicos e privados, nos públicos são inseridos comandos e informações que ficarão disponiveis para os usuários acessarem a qualquer momento, nos métodos privados o oposto. Para tornar algo privado no python é tulizado __ antes do nome do comando. Porém, o python preza pela liberdade do usuário, e é possível acessar métodos privados burlando o sitema do python.
+O encapsulamento se baseia no privilegio da execução, seria separar o programa em partes mais isoladas o possível. Dentro das classes existem métodos públicos e privados, nos públicos são inseridos comandos e informações que ficarão disponiveis para os usuários acessarem a qualquer momento, nos métodos privados o oposto. Para tornar algo privado no python é utilizado __ antes do nome do comando. Porém, o python preza pela liberdade do usuário, e é possível acessar métodos privados burlando o sitema do python.
