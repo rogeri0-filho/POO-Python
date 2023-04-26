@@ -1,32 +1,25 @@
-# Programação Orientada a Objetos com Python
+# POO-Python
 
-Este repositório contém alguns estudos sobre POO na linguagem Python.
+Este repositório contém códigos desenvolvidos em Python para praticar os conceitos de Programação Orientada a Objetos (POO).
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-## Índice:
+## Conteúdo
 
-* [Abstração](#Abstração)
-* [Herança](#Herança)
-* [Polimorfismo](#Polimorfismo)
-* [Encapsulamento](#Encapsulamento)
+O repositório está organizado em pastas, cada uma contendo um projeto desenvolvido em POO. Até o momento, o repositório possui apenas uma breve explanção com exemplos sobre herança, abstração, encapsulamento e polimorfismo.
 
-## Introdução:
+## Pré-requisitos
 
-O programação orientada a objetos é um dos vários paradigmas de programação, seu objetivo é aproximar mais ainda o manuseio de estruturas de um programa ao manuseio de coisas do mundo real, dai a ideia de "objetos". A programação orientada a objetos tem quatro pilares fundamentais, que são eles a **Abstração**, **Herança**, **Polimorfismo** e **Encapsulamento**.
+Para executar os códigos deste repositório, é necessário ter Python 3.x instalado em sua máquina. Além disso, alguns projetos podem ter outras dependências específicas, que estarão listadas em seus respectivos READMEs.
 
-### Abstração:
+## Como executar
 
-O conceito de abstração consiste em ocultar detalhes desnecessários do código, tudo o que não se sabe como funciona por trás dos bastidores é uma abstração. Um exemplo claro disso, é levar um PC defeituoso para um técnico e ele volar funcionando, isso é um exemplo de abstração, você não sabe o que técnico fez e nem precisa, o que importa é que ele resolveu seu problema.
+Para executar os códigos de um projeto específico, basta acessar a pasta correspondente e seguir as instruções presentes em seu README.
 
-### Herança:
+## Contribuições
 
-Na herança, os objetos que são construídos dentro delas herdam características de outros objetos. De forma mais generalista, a herança seria uma forma de reutilizar techos de código a medida que novas necessidades mais especificas vão surgindo.
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue caso encontre algum problema ou para submeter um pull request caso tenha alguma melhoria a propor.
 
-### Polimorfismo:
+## Licença
 
-O polimorfismo oferece ao usuário a possibilidade de reescrever ou sobescrever métodos da classe principal, de maneira ao qual esses métodos podem ser utilizados para fins disntintos, porém sendo implementados de formas diferentes.
-
-### Encapsulamento:
-
-O encapsulamento se baseia no privilegio da execução, seria separar o programa em partes mais isoladas o possível. Dentro das classes existem métodos públicos e privados, nos públicos são inseridos comandos e informações que ficarão disponiveis para os usuários acessarem a qualquer momento, nos métodos privados o oposto. Para tornar algo privado no python é utilizado __ antes do nome do comando. Porém, o python preza pela liberdade do usuário, e é possível acessar métodos privados burlando o sitema do python.
+Este repositório está sob a [Licença MIT](./LICENSE). Consulte o arquivo LICENSE para mais informações.
